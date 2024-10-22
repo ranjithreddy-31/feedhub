@@ -1,4 +1,4 @@
-# Flask + React App
+# FeedHub
 
 This project is a full-stack application built with Flask (for the backend) and React (for the frontend). It includes several endpoints for managing different functionalities.
 
